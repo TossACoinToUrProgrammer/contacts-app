@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/contacts-app/static/css/main.cc55934d.chunk.css",
-    "main.js": "/contacts-app/static/js/main.1ab463cd.chunk.js",
-    "main.js.map": "/contacts-app/static/js/main.1ab463cd.chunk.js.map",
+    "main.js": "/contacts-app/static/js/main.d5328e1a.chunk.js",
+    "main.js.map": "/contacts-app/static/js/main.d5328e1a.chunk.js.map",
     "runtime-main.js": "/contacts-app/static/js/runtime-main.bcae1327.js",
     "runtime-main.js.map": "/contacts-app/static/js/runtime-main.bcae1327.js.map",
     "static/js/2.2bd2c3fc.chunk.js": "/contacts-app/static/js/2.2bd2c3fc.chunk.js",
     "static/js/2.2bd2c3fc.chunk.js.map": "/contacts-app/static/js/2.2bd2c3fc.chunk.js.map",
     "index.html": "/contacts-app/index.html",
-    "precache-manifest.fb5a06752d590d02e5a10f6629fe3dbe.js": "/contacts-app/precache-manifest.fb5a06752d590d02e5a10f6629fe3dbe.js",
+    "precache-manifest.20d412b192b05a6723d00f6c1e638db1.js": "/contacts-app/precache-manifest.20d412b192b05a6723d00f6c1e638db1.js",
     "service-worker.js": "/contacts-app/service-worker.js",
     "static/css/main.cc55934d.chunk.css.map": "/contacts-app/static/css/main.cc55934d.chunk.css.map",
     "static/js/2.2bd2c3fc.chunk.js.LICENSE.txt": "/contacts-app/static/js/2.2bd2c3fc.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.bcae1327.js",
     "static/js/2.2bd2c3fc.chunk.js",
     "static/css/main.cc55934d.chunk.css",
-    "static/js/main.1ab463cd.chunk.js"
+    "static/js/main.d5328e1a.chunk.js"
   ]
 }
